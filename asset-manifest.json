@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kansascarver.com/static/css/main.f22c6925.css",
-    "main.js": "/kansascarver.com/static/js/main.d88722c0.js",
-    "static/js/787.9667179d.chunk.js": "/kansascarver.com/static/js/787.9667179d.chunk.js",
-    "static/media/horiseon.jpg": "/kansascarver.com/static/media/horiseon.a2117c68aecb697d9744.jpg",
-    "static/media/runbuddy.jpg": "/kansascarver.com/static/media/runbuddy.409838a11002b43c816a.jpg",
-    "static/media/headshot.jpg": "/kansascarver.com/static/media/headshot.ff403ab6ad180706e241.jpg",
-    "index.html": "/kansascarver.com/index.html",
-    "main.f22c6925.css.map": "/kansascarver.com/static/css/main.f22c6925.css.map",
-    "main.d88722c0.js.map": "/kansascarver.com/static/js/main.d88722c0.js.map",
-    "787.9667179d.chunk.js.map": "/kansascarver.com/static/js/787.9667179d.chunk.js.map"
+    "main.css": "/static/css/main.df204172.css",
+    "main.js": "/static/js/main.bd65d217.js",
+    "static/js/787.9667179d.chunk.js": "/static/js/787.9667179d.chunk.js",
+    "static/media/horiseon.jpg": "/static/media/horiseon.a2117c68aecb697d9744.jpg",
+    "static/media/runbuddy.jpg": "/static/media/runbuddy.409838a11002b43c816a.jpg",
+    "static/media/headshot.jpg": "/static/media/headshot.ff403ab6ad180706e241.jpg",
+    "index.html": "/index.html",
+    "main.df204172.css.map": "/static/css/main.df204172.css.map",
+    "main.bd65d217.js.map": "/static/js/main.bd65d217.js.map",
+    "787.9667179d.chunk.js.map": "/static/js/787.9667179d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f22c6925.css",
-    "static/js/main.d88722c0.js"
+    "static/css/main.df204172.css",
+    "static/js/main.bd65d217.js"
   ]
 }
